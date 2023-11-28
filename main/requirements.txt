@@ -1,0 +1,9 @@
+Flask==3.0
+Flask-SQLAlchemy
+SQLAlchemy==2.0.9
+Flask-Migrate
+Flask-Script
+Flask-Cors
+requests
+mysqlclient>=2.0.
+pymysql==1.1.0
