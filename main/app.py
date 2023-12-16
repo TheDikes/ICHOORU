@@ -11,7 +11,7 @@ db = SQLAlchemy(app)
 
 @app.route('/')
 def index():
-    return 'Hello!. Please signup, if not sign-in '
+    return "<h1>Hello!. Please signup, if not sign-in</h1>"
 
 
 if __name__ == '__main__':
